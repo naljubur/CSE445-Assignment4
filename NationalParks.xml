@@ -125,4 +125,37 @@
       <Zip>33034</Zip>
     </Address>
   </NationalPark>
+  <NationalPark Rating="4.8">
+    <Name>Great Smoky Mountains</Name>
+    <Phone>865-436-1200</Phone>
+    <Address NearestAirport="Knoxville McGhee Tyson">
+      <Number>107</Number>
+      <Street>Park Headquarters Road</Street>
+      <City>Gatlinburg</City>
+      <State>TN</State>
+      <Zip>37738</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Joshua Tree</Name>
+    <Phone>760-367-5500</Phone>
+    <Address NearestAirport="Palm Springs International">
+      <Number>74485</Number>
+      <Street>National Park Drive</Street>
+      <City>Twentynine Palms</City>
+      <State>CA</State>
+      <Zip>92277</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="4.7">
+    <Name>Sequoia</Name>
+    <Phone>559-565-3341</Phone>
+    <Address NearestAirport="Fresno Yosemite">
+      <Number>47050</Number>
+      <Street>Generals Highway</Street>
+      <City>Three Rivers</City>
+      <State>CA</State>
+      <Zip>93271</Zip>
+    </Address>
+  </NationalPark>
 </NationalParks>
